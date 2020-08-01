@@ -10,6 +10,7 @@ import './components/Stack/Stack.css';
 import './components/Join/Join.css';
 import './components/Form/Form.css';
 import './components/Free/Free.css';
+import './components/Footer/Footer.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Head from './components/Head/Head'
 import Cooperators from './components/Cooperators/Cooperators'
@@ -20,7 +21,9 @@ import Tech from './components/TechStack/Tech'
 import Stack from './components/Stack/Stack'
 import Join from './components/Join/Join'
 import Free from './components/Free/Free'
-import Form from './components/Form/Form'
+import FormEmail from './components/Form/Form'
+import Footer from './components/Footer/Footer'
+
 function App() {
   return (
     <>
@@ -34,7 +37,8 @@ function App() {
       <Stack />
       <Join />
       <Free />
-      <Form />
+      <FormEmail />
+      <Footer />
     </>
   );
 }
