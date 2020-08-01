@@ -45,7 +45,7 @@ export default function Stack () {
                     <p style={{padding: '20px'}}>Node.js is a multiplatform object oriented library event-oriented for Server-Side JavaScript applications.</p>
                     </Col>
                     <Col lg={4} className='text-center'>
-                    <div class='icon-container'><img className='icon-tech' src={express} style={{width: '280px', padding: '20px'}}/></div>
+                    <div class='icon-container'><img className='icon-tech' src={express} style={{width: '260px', padding: '20px'}}/></div>
                     <p style={{padding: '20px'}}>Express is a framework for web apps based on Node.Js. We'll use it to create fast and performing Web Servers and Web Services.</p>
                     </Col>
                     <Col lg={4} className='text-center'>

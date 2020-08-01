@@ -7,6 +7,7 @@ import './components/Reasons/Reasons.css';
 import './components/Stories/Stories.css';
 import './components/TechStack/Tech.css';
 import './components/Stack/Stack.css';
+import './components/Join/Join.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Head from './components/Head/Head'
 import Cooperators from './components/Cooperators/Cooperators'
@@ -15,6 +16,7 @@ import Reasons from './components/Reasons/Reasons'
 import Stories from './components/Stories/Stories'
 import Tech from './components/TechStack/Tech'
 import Stack from './components/Stack/Stack'
+import Join from './components/Join/Join'
 function App() {
   return (
     <>
@@ -26,6 +28,7 @@ function App() {
       <Stories />
       <Tech />
       <Stack />
+      <Join />
     </>
   );
 }
