@@ -1,0 +1,21 @@
+.container-free {
+    margin-top: 90px;
+    background: url('../../images/pic.svg');
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.list-free li{
+    
+    font-size:  20px;
+    letter-spacing: 2px;
+    font-weight: 500;
+    position: relative;
+}
+/* .list-free li::before {
+    content: url('../../images/dot.svg');
+    position: absolute;
+    bottom: -25px;
+    right: 200px;
+
+} */
+

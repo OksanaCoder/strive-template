@@ -1,0 +1,6 @@
+.form-email {
+    border-radius: 8px;
+    background-color: #fff;
+    /* padding: 32px; */
+    box-shadow: 0 8px 60px 0 rgba(103,151,255,.11), 0 12px 90px 0 rgba(103,151,255,.11);
+}

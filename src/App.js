@@ -8,6 +8,8 @@ import './components/Stories/Stories.css';
 import './components/TechStack/Tech.css';
 import './components/Stack/Stack.css';
 import './components/Join/Join.css';
+import './components/Form/Form.css';
+import './components/Free/Free.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Head from './components/Head/Head'
 import Cooperators from './components/Cooperators/Cooperators'
@@ -17,6 +19,8 @@ import Stories from './components/Stories/Stories'
 import Tech from './components/TechStack/Tech'
 import Stack from './components/Stack/Stack'
 import Join from './components/Join/Join'
+import Free from './components/Free/Free'
+import Form from './components/Form/Form'
 function App() {
   return (
     <>
@@ -29,6 +33,8 @@ function App() {
       <Tech />
       <Stack />
       <Join />
+      <Free />
+      <Form />
     </>
   );
 }
