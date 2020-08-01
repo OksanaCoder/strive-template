@@ -1,0 +1,15 @@
+.counter {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.container-counter {
+   
+    padding: 80px;
+    background-image: url('../../images/back-2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.left-batch {
+    line-height: 20px;
+}

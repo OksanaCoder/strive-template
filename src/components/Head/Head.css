@@ -1,0 +1,28 @@
+.container-head {
+    background-image: url('../../images/head-1.svg');
+    background-size: cover;
+    height: 100vh;
+    background-repeat: no-repeat;
+    width: 100%;
+    
+}
+.nav-head {
+    padding-top: 20px;
+}
+.btn-apply {
+    border: 2px solid #B48EFC;
+    background-color: #fff;
+    border-radius: 20px;
+    padding: 5px 30px;
+    font-weight: 600;
+    color: #B48EFC;
+    letter-spacing: 2px;
+
+}
+.btn-apply:focus {
+    outline: none;
+}
+.logo {
+height: 40px;
+
+}
