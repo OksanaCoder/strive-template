@@ -11,11 +11,7 @@
     font-weight: 500;
     position: relative;
 }
-/* .list-free li::before {
-    content: url('../../images/dot.svg');
-    position: absolute;
-    bottom: -25px;
-    right: 200px;
-
+/* .list-free li:hover {
+    border: 1px solid grey;
 } */
 

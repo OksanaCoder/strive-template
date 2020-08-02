@@ -20,7 +20,7 @@ export default function Counter () {
                         <CountUp  style={{fontSize: '90px'}}
                                 start={1}
                                 end={27}
-                                duration={5}
+                                duration={7}
                                 separator=" "
                                 decimals={0}
                                 decimal=","
