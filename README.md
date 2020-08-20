@@ -1,7 +1,7 @@
 
 
 ![code](https://emoji.slack-edge.com/TJNQP8XCG/typingcat/c02982a3c2cf4535.gif)  
-# [Strive Template](http://localhost:3000)
+# [Strive Template](https://oksanacoder.github.io/strive-template/)
 
 Tools that were used :\
 ![dot](https://github.githubassets.com/images/icons/emoji/unicode/1f338.png?v8) React\
