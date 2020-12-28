@@ -12,7 +12,7 @@ export default function Free() {
                     </Col>
                 </Row>
                 <Row>
-                    <Col lg={12} style={{ textAlign: 'right', marginTop: '60px' }}>
+                    <Col lg={12} md={12} sm={12} className='row-free' style={{ textAlign: 'right', marginTop: '60px' }}>  
                         <ul className='list-unstyled list-free' style={{ textAlign: 'right' }}>
                             <li style={{ fontSize: '30px', fontWeight: '600' }}><img src={dot} />Free access to : </li>
                             <Animated animationIn="zoomInUp" animationOut="zoomOutDown" animationInDuration={2000} animationOutDuration={1000} isVisible={true}>

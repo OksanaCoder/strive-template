@@ -1,8 +1,7 @@
 .container-free {
-    margin-top: 90px;
+    margin: 90px auto 130px;
     background: url('../../images/pic.svg');
     background-repeat: no-repeat;
-    height: 100vh;
 }
 .list-free li{
     
@@ -11,7 +10,11 @@
     font-weight: 500;
     position: relative;
 }
-/* .list-free li:hover {
-    border: 1px solid grey;
-} */
+
+@media (max-width: 1030px) {
+    .row-free {
+        margin-top: 560px !important;
+    }
+
+}
 

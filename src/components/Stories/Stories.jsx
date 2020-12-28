@@ -8,20 +8,12 @@ import faina from '../../images/faina.png'
 import micheal from '../../images/Micheal.png'
 import valerio from '../../images/Valerio.jpeg'
 
-// const slider = (
-//     <AwesomeSlider cssModule={AwesomeSliderStyles}>
-//     <div data-src={luca}  />
-//     <div data-src={faina} />
-//     <div data-src={micheal}  />
-//     <div data-src={valerio}/>
-// </AwesomeSlider>
-// )
 export default function Stories() {
     return (
         <div className='container'>
 
             <Row className='pb-5'>
-                <Col lg={12} className='heading mb-3' style={{ textAlign: 'center' }}>
+                <Col lg={12} md={12} sm={12} className='heading mb-3' style={{ textAlign: 'center' }}>
                     Success Stories
                     </Col>
             </Row>
@@ -33,11 +25,11 @@ export default function Stories() {
                     enableHeading
                     media={{
                         '@media (max-width: 900px)': {
-                            width: '600px',
+                            width: '100%',
                             height: '300px'
                         },
                         '@media (min-width: 900px)': {
-                            width: '960px',
+                            width: '100%',
                             height: '400px'
                         }
                     }}

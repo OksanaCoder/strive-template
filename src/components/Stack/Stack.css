@@ -2,13 +2,12 @@
     background: linear-gradient(180deg,#6100d6 20%,#330070 100%);
     box-shadow: 150px -250px 200px #6100d6;
     height: 100vh;
+    margin-top: -10px;
 }
 .wrapper-stack {
     border-radius: 8px;
     background-color: #fff;
     padding: 60px;
-    /* -webkit-transition: 300ms all cubic-bezier(.4,0,.2,1);
-    transition: 300ms all cubic-bezier(.4,0,.2,1); */
     margin-top: 24px;
     box-shadow: 0 4px 24px 0 rgba(103,151,255,.1), 0 12px 64px 0 rgba(103,151,255,.1);
 }

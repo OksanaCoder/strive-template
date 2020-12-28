@@ -9,13 +9,14 @@ export default function Counter () {
         <div className='container-counter'>
                 <div className='container'>
                     <div className='row'>
-                        <div className='col-4 left-batch'>
+                        <div className='col-lg-4 col-md-12 col-sm-12 left-batch'>
 
                             <p style={{fontSize:'25px', fontWeight: '600'}}>
                             <FontAwesomeIcon style={{marginRight: '20px'}} icon={faBatteryQuarter} />Don't miss it!</p>
                             <small style={{fontSize: '20px', letterSpacing:'2px'}}>Next batch starts on:</small>
                         </div>
-                        <div className='col-4 counter'> 
+
+                        <div className='col-lg-4 col-md-12 col-sm-12 counter'> 
                          <h4 style={{fontSize:'30px'}}>September</h4>
                         <CountUp  style={{fontSize: '90px'}}
                                 start={1}

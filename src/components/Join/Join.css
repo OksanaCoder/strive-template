@@ -8,3 +8,18 @@
     align-items: center;
     padding: 50px;
 }
+@media (min-width: 760px)  and (max-width: 1366px)  {
+    .container-join {
+        margin-top: 1600px !important;
+    }
+}
+@media (min-width: 1024px)  and (max-width: 1366px)  {
+    .container-join {
+        margin-top: 60px !important;
+    }
+}
+@media (min-width: 300px) and (max-width: 759px)  {
+    .container-join {
+        margin-top: 2500px !important;
+    }
+}
