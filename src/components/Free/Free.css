@@ -1,0 +1,20 @@
+.container-free {
+    margin: 90px auto 130px;
+    background: url('../../images/pic.svg');
+    background-repeat: no-repeat;
+}
+.list-free li{
+    
+    font-size:  20px;
+    letter-spacing: 2px;
+    font-weight: 500;
+    position: relative;
+}
+
+@media (max-width: 1030px) {
+    .row-free {
+        margin-top: 560px !important;
+    }
+
+}
+

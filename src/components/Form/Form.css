@@ -1,0 +1,15 @@
+.form-email {
+    border-radius: 8px;
+    background-color: #fff;
+    padding: 34px 32px;
+    width: 70%;
+    margin: 11% auto;
+    box-shadow: 0 8px 60px 0 rgba(103,151,255,.11), 0 12px 90px 0 rgba(103,151,255,.11);
+}
+.container-form {
+    background-image: url('../../images/drops.svg');
+    margin-bottom: 100px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
