@@ -45,7 +45,7 @@ export default function Stack () {
                     <p style={{padding: '20px'}}>Node.js is a multiplatform object oriented library event-oriented for Server-Side JavaScript applications.</p>
                     </Col>
                     <Col lg={4} md={12} sm={12}  className='text-center'>
-                    <div class='icon-container'><img className='icon-tech' src={express} style={{width: '260px', padding: '20px'}}/></div>
+                    <div class='icon-container'><img className='icon-tech' src={express} style={{ padding: '20px'}}/></div>
                     <p style={{padding: '20px'}}>Express is a framework for web apps based on Node.Js. We'll use it to create fast and performing Web Servers and Web Services.</p>
                     </Col>
                     <Col lg={4} md={12} sm={12}  className='text-center'>
@@ -55,7 +55,7 @@ export default function Stack () {
                 </Row>
                 <Row>   
                     <Col lg={4} md={12} sm={12}  className='text-center'>
-                    <div class='icon-container'><img className='icon-tech' src={typescript} style={{width: '270px', padding: '20px'}}/></div>
+                    <div class='icon-container'><img className='icon-tech' src={typescript} style={{ padding: '20px'}}/></div>
                     <p style={{padding: '20px'}}>JavaScript that scales: a typed superset of JavaScript that compiles to plain JavaScript. Any browser. Any host. Any OS. Open source.</p>
                     </Col>
                     <Col lg={4} md={12} sm={12}  className='text-center'>
